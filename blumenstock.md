@@ -1,5 +1,6 @@
 # Reading 1
 Theresa Reese
+
 January 27, 2020
 ## Joshua Blumenstock
 [Don’t forget people in the use of big data for development](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf) Nature: Sept. 2018
