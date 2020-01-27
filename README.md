@@ -3,7 +3,8 @@
 Theresa Reese
 
 ## Responses to Reading
- 1. [Blumenstock Response](https://github.com/theresareese/workshop1/blob/master/blumenstock.md)
+ 1. [Blumenstock Response](https://github.com/theresareese/workshop/blob/master/blumenstock.md)
+ 2. [Perkel Response](https://github.com/theresareese/workshop/blob/master/perkel.md)
 
 ## Workshop
 
