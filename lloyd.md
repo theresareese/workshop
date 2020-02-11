@@ -1,4 +1,4 @@
-## Reading Response 2
+# Reading Response 2
 Theresa Reese
 
 February 10, 2020
