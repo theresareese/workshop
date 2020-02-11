@@ -11,7 +11,7 @@ Perspective Question: In the Lloyd et al. article, the authors introduce a metho
 ## Response
 The datasets the authors are using include raster topography data from the Viewfinders Panorama dataset and vector country boundary data and country ids from GADM (as well as GPW). They also incorporated other spatial datasets into the archive, such as annual mean precipitation data, night light intensity data, land cover data, and water body data, meant to be used as covariates for population modelling.
 
-The method is an improvement when compared to a conventional census because the different proxies for population density may be valuable in estimating population considering that some groups of people may be hard to reach using a conventional census. The authors’ method is also more cost-effective than a conventional census.
+The method is an improvement when compared to a conventional census because it is more cost-effective and incorporating the different spatial datasets can improve the accuracy of the population mapping. 
 
 The authors standardised the Viewfinder Panoramas data set in order to make the topography layer of the archive and derived the slope layer of the archive from that. They used the GADM data for country ID tiles with accurate boundaries. They then incorporate other spatial datasets to make an archive of global gridded spatial datasets that can be used in addition to census data to improve accuracy in population studies. For example, the Random Forests model is a dasymetric modelling approach that uses census data and ancillary datasets to estimate population distribution.
 
