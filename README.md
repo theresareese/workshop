@@ -8,9 +8,9 @@ Theresa Reese
 
 ## Workshop
 
-1. [Line Plot] (https://theresareese.github.io/workshop/plot2.png)
-2. [The Path of a Salesman - Plot] (https://theresareese.github.io/workshop/path_plot.png)
+ 1. [Line Plot](https://theresareese.github.io/workshop/plot2.png)
+ 2. [The Path of a Salesman - Plot](https://theresareese.github.io/workshop/path_plot.png)
 
 ## Project 1
 
-1. [Map of Morocco] (https://theresareese.github.io/workshop/Morocco.png)
+1. [Map of Morocco](https://theresareese.github.io/workshop/Morocco.png)
