@@ -5,7 +5,7 @@ Theresa Reese
 ## Responses to Reading
  1. [Blumenstock Response](https://theresareese.github.io/workshop/blumenstock) (Jan. 27)
  2. [Lloyd](https://theresareese.github.io/workshop/lloyd) (Feb. 10)
- 3. [Wardrop] (https://theresareese.github.io/workshop/wardrop) (Feb. 17)
+ 3. [Wardrop](https://theresareese.github.io/workshop/wardrop) (Feb. 17)
 
 ## Workshop
 
