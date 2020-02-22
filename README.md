@@ -15,4 +15,4 @@ Theresa Reese
 ## Project 1
 
 1. [Map of Morocco](https://theresareese.github.io/workshop/Morocco.png)
-2. [Tunisia](https://theresareese.github.io/workshop/Tunisia.png)
+2. [Tunisia](https://theresareese.github.io/workshop/Tunisia3)
