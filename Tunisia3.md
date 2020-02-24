@@ -1,6 +1,6 @@
 # Project 1: Tunisia
 ## Administrative Map of Tunisia
-<img src="Tunisia_adm_map.png" width="600"/> <img src="detail_map.png" width="250" align = "top"/> Tunisia is the smallest country in North Africa, bordered by Algeria in the west, Libya in the southeast, and by the Mediterranean Sea in the east and north. It is divided into 24 governorates, which are futher divided into delegations.
+<img src="Tunisia_adm_map.png" width="600"/> <img src="detail_map.png" width="240" align = "top"/> Tunisia is the smallest country in North Africa, bordered by Algeria in the west, Libya in the southeast, and by the Mediterranean Sea in the east and north. It is divided into 24 governorates, which are futher divided into delegations.
 
 ## Population Distribution in Tunisia
 ![Tunisia](https://theresareese.github.io/workshop/Tunisia.png)
