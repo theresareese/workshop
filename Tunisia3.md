@@ -5,3 +5,6 @@
 ## Population Distribution in Tunisia
 ![Tunisia](https://theresareese.github.io/workshop/Tunisia.png)
 The most populous governorate is Tunis, which contains the nation's capital city of the same name. Despite occupying only around 0.2% of the area of Tunisia, 10.7% of the nation's population lives in the governorate of Tunis. The second most populous governorate is Sfax. Most of the population is located in the northern half of the country because of the Mediterranean Sea coastline in the northeast and the Sahara desert in the south.
+
+## Population by delegation
+![Tunisia](https://theresareese.github.io/workshop/tun_adm2_pop.png)
