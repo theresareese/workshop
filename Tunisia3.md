@@ -8,3 +8,4 @@ The most populous governorate is Tunis, which contains the nation's capital city
 
 ## Population by delegation
 ![Tunisia](https://theresareese.github.io/workshop/tun_adm2_pop.png)
+Some of the delegations that have very low populations are actually lakes, such as Sebkhet Sidi Alhani and Lake Ichkeul.
