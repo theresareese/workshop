@@ -16,3 +16,8 @@ Theresa Reese
 
 1. [Map of Morocco](https://theresareese.github.io/workshop/Morocco.png)
 2. [Tunisia](https://theresareese.github.io/workshop/Tunisia3)
+
+## Project 2
+
+1. [Part 1](https://theresareese.github.io/workshop/project2)
+
