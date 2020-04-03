@@ -32,4 +32,4 @@
 ![tunis_pop2](https://theresareese.github.io/workshop/Screen%20Shot%202020-04-03%20at%208.04.54%20AM.png)
 
 ## Mapview of Differences
-![tunis_pop3](https://theresareese.github.io/workshop/Rplot02.png)
+![tunis_pop3](https://theresareese.github.io/workshop/diffmapview.png)
