@@ -24,12 +24,16 @@
 
 ## Difference between Predicted Values and Worldpop Values
 ![diff](https://theresareese.github.io/workshop/Rplot05.png)
+This plot shows the difference between predicted values using my model and the population values from Worldpop.
 ## Error in Terms of Predicted Values - WorldPop Estimates for the Governorate of Tunis
 ![tunis_diff](https://theresareese.github.io/workshop/Rplot04.png)
+This plot shows the difference between predicted values and the Worldpop values for population, focusing on the governorate of Tunis, which contains the capital city of the same name.
 
 ## Population of Tunis
 ![tunis_pop](https://theresareese.github.io/workshop/Rplot03.png)
+This is a plot of the population of the governorate of Tunis.
 ![tunis_pop2](https://theresareese.github.io/workshop/Screen%20Shot%202020-04-03%20at%208.04.54%20AM.png)
+This is a 3D-plot of the population of the governorate of Tunis.
 
 ## Mapview of Differences
 ![tunis_pop3](https://theresareese.github.io/workshop/diffmapview.png)
