@@ -3,7 +3,8 @@
 
 ## Histogram with Density Plots
 ![histogram with log(pop19)](https://theresareese.github.io/workshop/hist_logpop.png)
-![histogram with ntl](https://theresareese.github.io/workshop/hist_ntl.png)
+![histogram with ntl](https://theresareese.github.io/workshop/hist_ntl.png)<br/>
+The figure above was made by overlapping the histogram with the density plot of the night time lights in the different delegations (adm2) of Tunisia. The outlier with a very high value for night time lights is Remada, the southernmost delegation of Tunisia.
 ![histogram with topo](https://theresareese.github.io/workshop/hist_topo.png)
 
 ## Histogram with Density Plots Excluding Remada
@@ -27,7 +28,7 @@
 This plot shows the difference between predicted values using my model and the population values from Worldpop.
 ## Error in Terms of Predicted Values - WorldPop Estimates for the Governorate of Tunis
 ![tunis_diff](https://theresareese.github.io/workshop/Rplot04.png)<br/>
-This plot shows the difference between predicted values and the Worldpop values for population, focusing on the governorate of Tunis, which contains the capital city of the same name.
+This plot shows the difference between predicted values and the Worldpop values for population, focusing on the governorate of Tunis, which contains the capital city of the same name (although the city of Tunis actually extends outside of the governorate into surrounding governorates).
 
 ## Population of Tunis
 ![tunis_pop](https://theresareese.github.io/workshop/Rplot03.png)<br/>
