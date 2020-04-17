@@ -2,3 +2,4 @@
 ![ppp](https://theresareese.github.io/workshop/bardo_ppp.png)
 ![Density Map Raoued](https://theresareese.github.io/workshop/raoued_density2.png)
 ![subpolys](https://theresareese.github.io/workshop/subpolys_filtered.png)
+![Urban plot Raoued](https://theresareese.github.io/workshop/urbanplotraoued.png)
