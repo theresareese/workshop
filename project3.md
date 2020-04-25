@@ -4,4 +4,5 @@
 ![urban plot with density](https://theresareese.github.io/workshop/urbanplotwithdensity.png)
 ![Urban plot Raoued](https://theresareese.github.io/workshop/urbanplotraoued2.png)
 ![Urban plot Raoued with Points](https://theresareese.github.io/workshop/urbanplotraouedpoints.png)
+![Urban plot Raoued with Roads](https://theresareese.github.io/workshop/roadwaysraoued.png)
 
