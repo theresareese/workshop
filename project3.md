@@ -5,4 +5,6 @@
 ![Urban plot Raoued](https://theresareese.github.io/workshop/urbanplotraoued2.png)
 ![Urban plot Raoued with Points](https://theresareese.github.io/workshop/urbanplotraouedpoints.png)
 ![Urban plot Raoued with Roads](https://theresareese.github.io/workshop/roadwaysraoued.png)
+![Urban plot Raoued with Healthsites](https://theresareese.github.io/workshop/healthsitesraoued.png)
+![Urban plot Raoued with Healthsites, Roads, and Population](https://theresareese.github.io/workshop/healthsitesraouedwithpop.png)
 
