@@ -3,3 +3,5 @@
 ![Density Map Raoued](https://theresareese.github.io/workshop/raoued_density2.png)
 ![urban plot with density](https://theresareese.github.io/workshop/urbanplotwithdensity.png)
 ![Urban plot Raoued](https://theresareese.github.io/workshop/urbanplotraoued2.png)
+![Urban plot Raoued with Points](https://theresareese.github.io/workshop/urbanplotraouedpoints.png)
+
