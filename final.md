@@ -14,11 +14,16 @@ The most populous governorate is Tunis, which contains the nation's capital city
 Raoued is a delegation in the northeast of Tunisia, part of the governorate of Ariana. It borders the Gulf of Tunis and is only about 11km from Tunisia's capital city. 
 ![Border of Raoued](https://theresareese.github.io/workshop/raoued_border.png)
 
+## Population in Raoued
 ![population map of Raoued](https://theresareese.github.io/workshop/sm_pop15.png)
-![Density Map Raoued](https://theresareese.github.io/workshop/raoued_density2.png)
+This map shows the population in Raoued in Tunisia.
 ![urban plot with density](https://theresareese.github.io/workshop/urbanplotwithdensity.png)
-![Urban plot Raoued](https://theresareese.github.io/workshop/urbanplotraoued.png)
+This is a map of the population density in Raoued with the main urban areas outlined.
+## Urban Areas in Raoued
 ![Urban plot Raoued with Points](https://theresareese.github.io/workshop/urbanplotraouedpoints.png)
+
+
+## Roadways and Access to Healthcare in Raoued
 ![Urban plot Raoued with Roads](https://theresareese.github.io/workshop/roadwaysraoued2.png)
 The main roads in Raoued mostly go through the main urban areas. The road in the lower left corner represented by the dark blue line is a highway that leads to the capital city of Tunis to the South. The reason the urban area by this highway is the most population dense is most likely because of its easy access to the capital.
 ![Urban plot Raoued with Healthsites](https://theresareese.github.io/workshop/healthsitesraoued2.png)
