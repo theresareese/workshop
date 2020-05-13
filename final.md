@@ -9,7 +9,9 @@ The most populous governorate is Tunis, which contains the nation's capital city
 ## Population by delegation
 ![Tunisia](https://theresareese.github.io/workshop/tun_adm2_pop.png)
 
+## Raoued
 ![Map of Raoued, Tunisia](https://theresareese.github.io/workshop/raoued_tunisia.png)
+Raoued is a delegation in the northeast of Tunisia, part of the governorate of Ariana. It borders the Gulf of Tunis and is only about 11km from Tunisia's capital city.
 ![Border of Raoued](https://theresareese.github.io/workshop/raoued_border.png)
 ![population map of Raoued](https://theresareese.github.io/workshop/sm_pop15.png)
 ![ppp](https://theresareese.github.io/workshop/bardo_ppp.png)
