@@ -17,13 +17,13 @@ Raoued is a delegation in the northeast of Tunisia, part of the governorate of A
 ![population map of Raoued](https://theresareese.github.io/workshop/sm_pop15.png)
 ![Density Map Raoued](https://theresareese.github.io/workshop/raoued_density2.png)
 ![urban plot with density](https://theresareese.github.io/workshop/urbanplotwithdensity.png)
-![Urban plot Raoued](https://theresareese.github.io/workshop/urbanplotraoued2.png)
+![Urban plot Raoued](https://theresareese.github.io/workshop/urbanplotraoued.png)
 ![Urban plot Raoued with Points](https://theresareese.github.io/workshop/urbanplotraouedpoints.png)
-![Urban plot Raoued with Roads](https://theresareese.github.io/workshop/roadwaysraoued.png)
+![Urban plot Raoued with Roads](https://theresareese.github.io/workshop/roadwaysraoued2.png)
 The main roads in Raoued mostly go through the main urban areas. The road in the lower left corner represented by the dark blue line is a highway that leads to the capital city of Tunis to the South. The reason the urban area by this highway is the most population dense is most likely because of its easy access to the capital.
-![Urban plot Raoued with Healthsites](https://theresareese.github.io/workshop/healthsitesraoued.png)
+![Urban plot Raoued with Healthsites](https://theresareese.github.io/workshop/healthsitesraoued2.png)
 Each red cross represents a pharmacy. 
-![Urban plot Raoued with Healthsites, Roads, and Population](https://theresareese.github.io/workshop/healthsitesraouedwithpop.png)
+![Urban plot Raoued with Healthsites, Roads, and Population](https://theresareese.github.io/workshop/healthsitesraouedwithpop2.png)
 ![3d map of Raoued](https://theresareese.github.io/workshop/raoued_urban_3d.png)
 It is clear how topography affected development in Raoued with the way the urban areas surround the mountains, but don't extend into them. Roads were built through valleys in the mountain.
 [Interactive 3dplot](https://theresareese.github.io/workshop/interactive3d)
