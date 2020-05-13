@@ -25,5 +25,6 @@ Raoued is a delegation in the northeast of Tunisia, part of the governorate of A
 Each red cross represents a pharmacy.
 ![Urban plot Raoued with Healthsites, Roads, and Population](https://theresareese.github.io/workshop/healthsitesraouedwithpop.png)
 ![3d map of Raoued](https://theresareese.github.io/workshop/raoued_urban_3d.png)
-
+It is clear how topography affected development in Raoued with the way the urban areas surround the mountains, but don't extend into them. Roads were built through valleys in the mountain.
 [Interactive 3dplot](https://theresareese.github.io/workshop/interactive3d)
+
