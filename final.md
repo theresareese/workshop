@@ -11,8 +11,9 @@ The most populous governorate is Tunis, which contains the nation's capital city
 
 ## Raoued
 ![Map of Raoued, Tunisia](https://theresareese.github.io/workshop/raoued_tunisia.png)
-Raoued is a delegation in the northeast of Tunisia, part of the governorate of Ariana. It borders the Gulf of Tunis and is only about 11km from Tunisia's capital city.
+Raoued is a delegation in the northeast of Tunisia, part of the governorate of Ariana. It borders the Gulf of Tunis and is only about 11km from Tunisia's capital city. 
 ![Border of Raoued](https://theresareese.github.io/workshop/raoued_border.png)
+
 ![population map of Raoued](https://theresareese.github.io/workshop/sm_pop15.png)
 ![ppp](https://theresareese.github.io/workshop/bardo_ppp.png)
 ![Density Map Raoued](https://theresareese.github.io/workshop/raoued_density2.png)
@@ -21,5 +22,8 @@ Raoued is a delegation in the northeast of Tunisia, part of the governorate of A
 ![Urban plot Raoued with Points](https://theresareese.github.io/workshop/urbanplotraouedpoints.png)
 ![Urban plot Raoued with Roads](https://theresareese.github.io/workshop/roadwaysraoued.png)
 ![Urban plot Raoued with Healthsites](https://theresareese.github.io/workshop/healthsitesraoued.png)
+Each red cross represents a pharmacy.
 ![Urban plot Raoued with Healthsites, Roads, and Population](https://theresareese.github.io/workshop/healthsitesraouedwithpop.png)
 ![3d map of Raoued](https://theresareese.github.io/workshop/raoued_urban_3d.png)
+
+[Interactive 3dplot](https://theresareese.github.io/workshop/interactive3d)
